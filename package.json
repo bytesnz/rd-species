@@ -1,0 +1,32 @@
+{
+  "name": "rd-species",
+  "version": "1.0.0",
+  "description": "Simple interface for searching through species database",
+  "main": "index.js",
+  "repository": "https://github.com/bytesnz/rd-species.git",
+  "author": "Jack Farley <@bytesnz>",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.2.3",
+    "css-loader": "^0.26.1",
+    "extract-text-webpack-plugin": "^2.0.0",
+    "fuse.js": "^3.1.0",
+    "html-webpack-plugin": "^2.30.1",
+    "json-loader": "^0.5.7",
+    "node-sass": "^4.5.3",
+    "postcss-loader": "^1.2.2",
+    "postcss-smart-import": "^0.6.7",
+    "precss": "^1.4.0",
+    "rd-base": "https://github.com/bytesnz/rd-base.git",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-leaflet": "^1.4.0",
+    "react-leaflet-draw": "^0.16.0",
+    "sass-loader": "^6.0.6",
+    "source-map-loader": "^0.2.1",
+    "style-loader": "0.13.1",
+    "typescript": "^2.5.3",
+    "url-loader": "^0.5.7",
+    "webpack": "^2.2.0"
+  }
+}
